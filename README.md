@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6am94bmR6bmR6bmR6bmR6bmR6bmR6/L8K967Lz7kO3W/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5NndpZzhic2ZpZzhic2ZpZzhic2ZpZzhic2ZpZzhic2ZpZzhicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K967Lz7kO3W/giphy.gif" width="600" />
 </p>
 
 ## 🛠️ Technical Profile
@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA0bmN4ZW15bnR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5/Xm5HAtVpY84yA/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NidmUydXNidmUydXNidmUydXNidmUydXNidmUydXNidmUydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xm5HAtVpY84yA/giphy.gif" width="300" />
 </p>
 
 <p align="center">
