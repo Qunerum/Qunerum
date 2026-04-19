@@ -16,7 +16,10 @@ int main() {
     };
     char* languages[] = {"Polish", "Russian", "English"};
     char* primary_languages[] = {"C", "C#", "QCode"};
-    char* secondary_languages[] = {"Java", "Python", "Batch", "Assembly", "HTML", "CSS", "C++ (Arduino)"};
+    char* secondary_languages[] = {
+        "Java", "Python", "Batch", "Assembly",
+        "HTML", "CSS", "C++ (Arduino)"
+    };
     char* editors[] = {"IntelliJ", "Rider", "Kate"};
     char* projects[] = {
         "QCode (Programming Language & Compiler in C)",
