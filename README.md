@@ -27,5 +27,12 @@ int main() {
         "QuneOS (Custom x86/x86_64 OS: Bootloader & Kernel from scratch)",
         "QChest (Modern Crates Plugin for Minecraft)"
     };
+    // My current focus & activity level
+    char* activity[] = {
+        "QCode  |######====| 60%",
+        "QChest |####======| 40%",
+        "QuneOS |#=========| < 10%",
+        "QEngine|#=========| < 10%"
+    };
     return 0;
 }
