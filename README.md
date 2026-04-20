@@ -29,10 +29,10 @@ int main() {
     };
     // My current focus & activity level
     char* activity[] = {
-        "QCode  |######====| 60%",
-        "QChest |####======| 40%",
-        "QuneOS |#=========| < 10%",
-        "QEngine|#=========| < 10%"
+        "QCode  |############========| 60%",
+        "QChest |########============| 40%",
+        "QuneOS |##==================| <10%",
+        "QEngine|##==================| <10%"
     };
     return 0;
 }
