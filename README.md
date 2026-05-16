@@ -28,12 +28,12 @@ int main() {
         "QChest (Modern Crates Plugin for Minecraft)"
     };
     // My current focus & activity level
-    // Last update: 16.05.2026 21:22:52 (GMT+2)
+    // Last update: 16.05.2026 22:51:20 (GMT+2)
     char* activity[] = {
-        "QCode          |################==============| 55% (19 commits)"
-        "QGPU           |#########=====================| 32% (11 commits)"
+        "QCode          |################==============| 54% (19 commits)"
+        "QGPU           |#########=====================| 31% (11 commits)"
+        "QuneOS         |##============================|  8% (3 commits)"
         "Scrap-Display  |#=============================|  5% (2 commits)"
-        "QuneOS         |#=============================|  5% (2 commits)"
         "QEngine        |==============================|  0% (0 commits)"
     };
     return 0;
