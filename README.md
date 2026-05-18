@@ -20,12 +20,12 @@ int main() {
         "Java", "Python", "Batch", "Assembly",
         "HTML", "CSS", "C++ (Arduino)"
     };
-    char* editors[] = {"IntelliJ", "Rider", "Kate"};
+    char* editors[] = {"Kate", "IntelliJ", "Rider"};
     char* projects[] = {
         "QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
         "QGPU - Lightweight 2D Graphics Wrapper & Immediate UI in C built on Vulkan & GLFW"
         "QCode - Programming Language & Compiler in C",
-        "",
+        "QEngine - Custom 2D Game Engine originally in C# (Abandoned in favor of a full C rewrite)",
     };
     // My current focus & activity level
     // Last update: 18.05.2026 21:11:12 (GMT+2)
