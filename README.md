@@ -22,10 +22,10 @@ int main() {
     };
     char* editors[] = {"IntelliJ", "Rider", "Kate"};
     char* projects[] = {
-        "QCode (Programming Language & Compiler in C)",
-        "QEngine (Game Engine in C#)",
-        "QuneOS (Custom x86/x86_64 OS: Bootloader & Kernel from scratch)",
-        "QChest (Modern Crates Plugin for Minecraft)"
+        "QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
+        "QGPU - Lightweight 2D Graphics Wrapper & Immediate UI in C built on Vulkan & GLFW"
+        "QCode - Programming Language & Compiler in C",
+        "",
     };
     // My current focus & activity level
     // Last update: 18.05.2026 14:58:06 (GMT+2)
