@@ -25,7 +25,7 @@ int main() {
         "QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
         "QGPU - Lightweight 2D Graphics Wrapper & Immediate UI in C built on Vulkan & GLFW"
         "QCode - Programming Language & Compiler in C",
-        "QEngine - Custom 2D Game Engine originally in C# (Abandoned in favor of a full C rewrite)",
+        "QEngine - 2D Game Engine: C# version (Abandoned) → Currently being rewritten in C",
     };
     // My current focus & activity level
     // Last update: 18.05.2026 21:14:02 (GMT+2)
