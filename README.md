@@ -28,11 +28,11 @@ int main() {
         "QEngine - 2D Game Engine: C# version (Abandoned) → Currently being rewritten in C",
     };
     // My current focus & activity level
-    // Last update: 25.05.2026 07:29:24 (GMT+2)
+    // Last update: 25.05.2026 18:34:17 (GMT+2)
     char* activity[] = {
-        "QCode          |##########====================| 36% (12 commits)"
-        "QuneOS         |#########=====================| 33% (11 commits)"
-        "QGPU           |#########=====================| 30% (10 commits)"
+        "QCode          |###########===================| 38% (13 commits)"
+        "QuneOS         |#########=====================| 32% (11 commits)"
+        "QGPU           |########======================| 29% (10 commits)"
         "QEngine        |==============================|  0% (0 commits)"
     };
     return 0;
