@@ -26,9 +26,9 @@ int main() {
         "QGPU - Lightweight 2D Graphics Wrapper & Immediate UI in C built on Vulkan & GLFW",
         "QCode - Programming Language & Interpreter in C",
         "QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
-        "QEngine - A 2D game engine written in C.",
+        "QEngine - A 2D game engine written in C",
     };
-    // Last update: 30.05.2026 11:14:34 (GMT+2)
+    // Last update: 30.05.2026 11:14:55 (GMT+2)
     char* activity[] = { 
         "QCode          |#########=====================| 30% (13 commits)",
         "QGPU           |#######=======================| 26% (11 commits)",
