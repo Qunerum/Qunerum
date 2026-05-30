@@ -4,7 +4,7 @@ typedef struct {
     char* location;       // Country
     char* os;             // Operating System
     char* desktop_env;    // DE
-    float experience_yrs; // Years of coding
+    int experience_yrs;   // Years of coding
 } Developer;
 
 int main() {
@@ -12,7 +12,7 @@ int main() {
         .location = "Poland 🇵🇱",
         .os = "Arch Linux",
         .desktop_env = "KDE Plasma",
-        .experience_yrs = 4.5f
+        .experience_yrs = 4
     };
     char* languages[] = {"Polish", "Russian", "English"};
     char* primary_languages[] = {"C", "C#", "QCode"};
@@ -28,7 +28,7 @@ int main() {
         "QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
         "QEngine - A 2D game engine written in C",
     };
-    // Last update: 30.05.2026 20:38:30 (GMT+2)
+    // Last update: 30.05.2026 20:40:47 (GMT+2)
     char* activity[] = { 
         "QGPU           |#########=====================| 32% (16 commits)",
         "QCode          |#######=======================| 26% (13 commits)",
