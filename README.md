@@ -12,7 +12,7 @@ int main() {
         .location = "Poland 🇵🇱",
         .os = "Arch Linux",
         .desktop_env = "KDE Plasma",
-        .experience_yrs = 4
+        .experience_yrs = 5
     };
     char* languages[] = {"Polish", "Russian", "English"};
     char* primary_languages[] = {"C", "C#", "QCode"};
@@ -28,9 +28,9 @@ int main() {
         "QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
         "QEngine - A 2D game engine written in C",
     };
-    // Last update: 31.05.2026 21:28:16 (GMT+2)
+    // Last update: 01.06.2026 11:17:57 (GMT+2)
     char* activity[] = { 
-        "QGPU           |#########=====================| 33% (17 commits)",
+        "QGPU           |##########====================| 34% (18 commits)",
         "QCode          |#######=======================| 25% (13 commits)",
         "QuneOS         |#####=========================| 19% (10 commits)",
         "QAsm           |###===========================| 13% (7 commits)",
