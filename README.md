@@ -28,11 +28,11 @@ int main() {
         "QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
         "QEngine - A 2D game engine written in C",
     };
-    // Last update: 13.06.2026 09:44:08 (GMT+2)
+    // Last update: 13.06.2026 09:45:05 (GMT+2)
     char* activity[] = { 
         "QGPU           |###############===============| 51% (40 commits)",
-        "QuneOS         |#####=========================| 18% (14 commits)",
-        "QAsm           |####==========================| 16% (13 commits)",
+        "QuneOS         |#####=========================| 17% (14 commits)",
+        "QAsm           |#####=========================| 17% (14 commits)",
         "QEngine        |###===========================| 12% (10 commits)",
         "QCode          |==============================|  0% (0 commits)",
     };
