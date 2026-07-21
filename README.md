@@ -1,41 +1,44 @@
 ```c
 #define STATUS "CODING"
 typedef struct {
-    char* location;       // Country
-    char* os;             // Operating System
-    char* desktop_env;    // DE
-    int experience_yrs;   // Years of coding
+	char* location;       // Country
+	char* os;             // Operating System
+	char* desktop_env;    // DE
+	int experience_yrs;   // Years of coding
 } Developer;
 
 int main() {
-    Developer me = {
-        .location = "Poland 🇵🇱",
-        .os = "Arch Linux",
-        .desktop_env = "KDE Plasma",
-        .experience_yrs = 5
-    };
-    char* languages[] = {"Polish", "Russian", "English"};
-    char* primary_languages[] = {"C", "C#", "QCode"};
-    char* secondary_languages[] = {
-        "Java", "Python", "Batch", "Assembly",
-        "HTML", "CSS", "C++ (Arduino)"
-    };
-    char* editors[] = {"Kate", "IntelliJ", "Rider"};
-    char* projects[] = {
-        "QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
-        "QGPU - Lightweight 2D Graphics Wrapper & Immediate UI in C built on Vulkan & GLFW",
-        "QCode - Programming Language & Interpreter in C",
-        "QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
-        "QEngine - A 2D game engine written in C",
-    };
-    // Last update: 20.07.2026 12:28:04 (GMT+2)
-    char* activity[] = { 
-        "QGPU                   |#############=================| 45% (32 commits)",
-        "QCode_Plus             |########======================| 28% (20 commits)",
-        "QEngine                |####==========================| 15% (11 commits)",
-        "QAsm                   |###===========================| 10% (7 commits)",
-        "Qune_System_Creator    |==============================|  0% (0 commits)",
-    };
-    return 0;
+	Developer me = {
+		.location = "Poland 🇵🇱",
+		.os = "Arch Linux",
+		.desktop_env = "KDE Plasma",
+		.experience_yrs = 5
+	};
+	char* languages[] = {"Polish", "Russian", "English"};
+	char* primary_languages[] = {"C", "C#", "QCode", "QCode+", "QAsm"};
+	char* secondary_languages[] = {
+		"Java", "Python", "Batch", "Assembly",
+		"HTML", "CSS", "C++ (Arduino)"
+	};
+	char* editors[] = {"Kate", "IntelliJ"};
+	char* projects[] = {
+		"QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
+		"QGPU - Lightweight 2D Graphics Wrapper in C built on Vulkan & GLFW",
+		"QEngine - 2D game engine written in C",
+		"QCode - Programming Language & Interpreter in C",
+		"QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
+		"QCode Plus - Programming Language & Compiler in C targeting QAsm",
+	};
+	// Last update: 20.07.2026 12:28:04 (GMT+2)
+	// All commits: 79 (Last 30 days)
+	// Q -> Qunerum
+	char* activity[] = {
+		"QGPU                     |############==================| 41% (  32 commits )",
+		"QCode Plus               |########======================| 25% (  20 commits )",
+		"QEngine                  |####==========================| 14% (  11 commits )",
+		"Q Big Text Generator     |###===========================|  9% (   7 commits )",
+		"QAsm                     |###===========================|  9% (   7 commits )",
+	};
+	return 0;
 }
 ```
