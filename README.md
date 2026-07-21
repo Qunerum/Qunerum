@@ -30,11 +30,11 @@ int main() {
 		"QCode Plus - Programming Language & Compiler in C targeting QAsm",
 	};
 	// Last update: 20.07.2026 12:28:04 (GMT+2)
-	// All commits: 79 (Last 30 days)
+	// All commits: 78 (Last 30 days)
 	// Q -> Qunerum
 	char* activity[] = {
 		"QGPU                     |############==================| 41% (  32 commits )",
-		"QCode Plus               |########======================| 25% (  20 commits )",
+		"QCode Plus               |#######=======================| 24% (  19 commits )",
 		"QEngine                  |####==========================| 14% (  11 commits )",
 		"Q Big Text Generator     |###===========================|  9% (   7 commits )",
 		"QAsm                     |###===========================|  9% (   7 commits )",
