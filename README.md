@@ -33,8 +33,8 @@ int main() {
 	// All commits: 84 (Last 30 days)
 	// Q -> Qunerum
 	char* activity[] = {
-		"QGPU                     |############==================| 40% [  34 commits ]",
-		"QCode Plus               |######========================| 21% [  18 commits ]",
+		"QGPU                     |#############=================| 42% [  35 commits ]",
+		"QCode Plus               |######========================| 20% [  17 commits ]",
 		"QEngine                  |###===========================| 10% [   8 commits ]",
 		"Q Big Text Generator     |###===========================| 10% [   8 commits ]",
 		"QAsm                     |###===========================| 10% [   8 commits ]",
