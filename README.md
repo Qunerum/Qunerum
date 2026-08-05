@@ -29,13 +29,13 @@ int main() {
 		"QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
 		"QCode Plus - Programming Language & Compiler in C targeting QAsm",
 	};
-	// Last update: 2026-08-05 13:07 (GMT+2)
-	// All commits: 85 (Last 30 days)
+	// Last update: 2026-08-05 17:55 (GMT+2)
+	// All commits: 86 (Last 30 days)
 	// Q -> Qunerum
 	char* activity[] = {
 		"QGPU                     |##############================| 48% [  41 commits ]",
 		"QCode Plus               |######========================| 21% [  18 commits ]",
-		"QEngine                  |####==========================| 12% [  10 commits ]",
+		"QEngine                  |####==========================| 13% [  11 commits ]",
 		"QAsm                     |###===========================|  9% [   8 commits ]",
 		"Q Conf Neural Network    |##============================|  5% [   4 commits ]",
 	};
