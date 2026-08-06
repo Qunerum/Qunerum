@@ -1,4 +1,3 @@
-![My stats](https://github.com/Qunerum/QGPG/blob/main/stats.svg)
 ```c
 #define STATUS "CODING"
 typedef struct {
