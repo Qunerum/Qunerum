@@ -1,3 +1,4 @@
+![My languages in repos](https://github.com/Qunerum/QGPG/blob/main/stats.svg)
 ```c
 #define STATUS "CODING"
 typedef struct {
@@ -18,9 +19,9 @@ int main() {
 	char* primary_languages[] = {"C", "C#", "QCode", "QCode+", "QAsm"};
 	char* secondary_languages[] = {
 		"Java", "Python", "Batch", "Assembly",
-		"HTML", "CSS", "C++ (Arduino)"
+		"HTML", "CSS", "C++ (Arduino)", "JavaScript"
 	};
-	char* editors[] = {"Kate", "IntelliJ"};
+	char* editors[] = {"Kate"};
 	char* projects[] = {
 		"QuneOS - Custom x86/x86_64 OS: Bootloader & Kernel from scratch",
 		"QGPU - Lightweight 2D Graphics Wrapper in C built on Vulkan & GLFW",
@@ -28,16 +29,6 @@ int main() {
 		"QCode - Programming Language & Interpreter in C",
 		"QAsm - Programming Language & Compiler in C targeting x86_64 Assembly",
 		"QCode Plus - Programming Language & Compiler in C targeting QAsm",
-	};
-	// Last update: 2026-08-06 15:07 (GMT+2)
-	// All commits: 87 (Last 30 days)
-	// Q -> Qunerum
-	char* activity[] = {
-		"QGPU                     |###############===============| 51% [  44 commits ]",
-		"QCode Plus               |#####=========================| 18% [  16 commits ]",
-		"QEngine                  |####==========================| 13% [  11 commits ]",
-		"QAsm                     |###===========================|  9% [   8 commits ]",
-		"Q Conf Neural Network    |##============================|  5% [   4 commits ]",
 	};
 	return 0;
 }
