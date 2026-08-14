@@ -1,0 +1,24 @@
+<svg width="192" height="242" viewBox="0 0 192 242" xmlns="http://www.w3.org/2000/svg">
+	<style>
+	.bg {
+	fill: #161B22;
+	stroke: #F0B2BC;
+	stroke-width: 6;
+	rx: 12px;
+	}
+	</style>
+
+<rect x="6" y="6" width="180" height="230" class="bg"/>
+
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#3fb950">Primary langs:</text>
+<text x="36" y="46" font-family="monospace" font-size="12" fill="#2f8f3c">C , C# , QCode ,</text>
+<text x="36" y="62" font-family="monospace" font-size="12" fill="#2f8f3c">QCode Plus , QAsm</text>
+
+<text x="20" y="84" font-family="monospace" font-size="14" fill="#3fb950">Secondary langs:</text>
+<text x="36" y="100" font-family="monospace" font-size="12" fill="#2f8f3c">Java , Python , </text>
+<text x="36" y="116" font-family="monospace" font-size="12" fill="#2f8f3c">Batch , Assembly ,</text>
+<text x="36" y="132" font-family="monospace" font-size="12" fill="#2f8f3c">HTML , CSS ,</text>
+<text x="36" y="148" font-family="monospace" font-size="12" fill="#2f8f3c">C++ (Arduino) ,</text>
+<text x="36" y="164" font-family="monospace" font-size="12" fill="#2f8f3c">JavaScript</text>
+
+</svg>
