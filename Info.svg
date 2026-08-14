@@ -1,15 +1,25 @@
 <svg width="192" height="242" viewBox="0 0 192 242" xmlns="http://www.w3.org/2000/svg">
-		<style>
-		.bg {
-			fill: #161B22;
-			stroke: #F0B2BC;
-			stroke-width: 6;
-			rx: 12px;
-		}
-		</style>
+	<style>
+	.bg {
+	fill: #161B22;
+	stroke: #F0B2BC;
+	stroke-width: 6;
+	rx: 12px;
+	}
+	</style>
 
-		<rect x="6" y="6" width="180" height="230" class="bg"/>
-      
-	<text x="24" y="40" font-family="monospace" font-size="14" fill="#58a6ff">Location: Poland</text>
-	
+<rect x="6" y="6" width="180" height="230" class="bg"/>
+
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#3fb950">Location: Poland</text>
+<text x="20" y="46" font-family="monospace" font-size="14" fill="#3fb950">OS: Arch Linux</text>
+<text x="20" y="62" font-family="monospace" font-size="14" fill="#3fb950">DE: KDE Plasma</text>
+<text x="20" y="78" font-family="monospace" font-size="14" fill="#3fb950">Exp years: 5</text>
+
+<text x="20" y="100" font-family="monospace" font-size="14" fill="#3fb950">Languages:</text>
+<text x="36" y="116" font-family="monospace" font-size="12" fill="#2f8f3c">PL , RU , ENG</text>
+
+<text x="20" y="138" font-family="monospace" font-size="14" fill="#3fb950">Editors:</text>
+<text x="36" y="154" font-family="monospace" font-size="12" fill="#2f8f3c">Kate</text>
+
+
 </svg>
