@@ -1,5 +1,5 @@
 <div align="center">
-![Info](Info.svg)
-![My languages in repos](https://github.com/Qunerum/QGPG/blob/main/stats.svg)
-![Languages](Langs.svg)
+  <img src="Info.svg" alt="Info">
+  <img src="https://github.com/Qunerum/QGPG/blob/main/stats.svg" alt="My languages in repos">
+  <img src="Langs.svg" alt="Languages">
 </div>
