@@ -12,13 +12,14 @@
 
 <text x="20" y="30" font-family="monospace" font-size="14" fill="#3fb950">Primary langs:</text>
 <text x="36" y="46" font-family="monospace" font-size="12" fill="#2f8f3c">C , C# , QCode ,</text>
-<text x="36" y="62" font-family="monospace" font-size="12" fill="#2f8f3c">QCode Plus , QAsm</text>
+<text x="36" y="62" font-family="monospace" font-size="12" fill="#2f8f3c">QCode Plus , QAsm ,</text>
+<text x="36" y="78" font-family="monospace" font-size="12" fill="#2f8f3c">QWeb Format</text>
 
-<text x="20" y="84" font-family="monospace" font-size="14" fill="#3fb950">Secondary langs:</text>
-<text x="36" y="100" font-family="monospace" font-size="12" fill="#2f8f3c">Java , Python , </text>
-<text x="36" y="116" font-family="monospace" font-size="12" fill="#2f8f3c">Batch , Assembly ,</text>
-<text x="36" y="132" font-family="monospace" font-size="12" fill="#2f8f3c">HTML , CSS ,</text>
-<text x="36" y="148" font-family="monospace" font-size="12" fill="#2f8f3c">C++ (Arduino) ,</text>
-<text x="36" y="164" font-family="monospace" font-size="12" fill="#2f8f3c">JavaScript</text>
+<text x="20" y="100" font-family="monospace" font-size="14" fill="#3fb950">Secondary langs:</text>
+<text x="36" y="116" font-family="monospace" font-size="12" fill="#2f8f3c">Java , Python , </text>
+<text x="36" y="132" font-family="monospace" font-size="12" fill="#2f8f3c">Batch , Assembly ,</text>
+<text x="36" y="148" font-family="monospace" font-size="12" fill="#2f8f3c">HTML , CSS ,</text>
+<text x="36" y="164" font-family="monospace" font-size="12" fill="#2f8f3c">C++ (Arduino) ,</text>
+<text x="36" y="180" font-family="monospace" font-size="12" fill="#2f8f3c">JavaScript</text>
 
 </svg>
